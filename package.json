@@ -1,0 +1,23 @@
+{
+  "name": "prueba-ceva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@ncasolajimenez",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^13.0.0",
+    "mongodb": "6.3",
+    "mongoose": "^8.0.1"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.2"
+  }
+}
